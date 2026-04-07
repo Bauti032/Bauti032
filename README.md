@@ -6,17 +6,18 @@ Estudiante de Ingeniería Informática orientado al desarrollo de software y a c
 ---
 
 ## 🚀 Sobre mí
-- 💻 Me interesa el backend, frontend, algo de ciberseguridad y Bases de Datos.
-- 📚 Me gusta estar en constante aprendizaje, soy algo bastante autodidacta.  
+- 💻 Me interesa el Backend, la ciberseguridad y las Base de Datos.
+- 📚 Me gusta estar en constante aprendizaje, soy autodidacta.  
 - 🎯 Objetivo: crear herramientas o sistemas que resuelvan problemas reales y escalen a futuro.
 
 ---
 
 ## 🛠️ Tecnologías
-- **Lenguajes:** Python, SQL, GO, C#, HTML, CSS 
-- **Bases de datos:** MySQL, SQL Server  
-- **Herramientas:** Git, Github.  
-- **Intereses:** Backend, APIs, SQl - NoSQL, Ethical Hacking. 
+- **Lenguajes:** Python, SQL, GO, C#, HTML, CSS. 
+- **Bases de datos:** MySQL, Microsoft SQL Server.  
+- **Herramientas:** Git, Github.
+- **Metodologías Agile:** Scrum.   
+- **Intereses:** Backend, APIs, SQl - NoSQL, Ethical Hacking, Linux, Sistemas Operativos, Redes. 
 
 ---
 
