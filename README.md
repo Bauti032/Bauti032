@@ -23,7 +23,7 @@ Estudiante de Ingeniería Informática orientado al desarrollo de software y a c
 
 ## 📌 Proyectos destacados
 - **Juego tipo Galaga**: Como proyecto final para la materia de Algoritmos y Programación de primer año, realicé un juego básico utilizando CSS, GO Y HTML.
-- **Life-Core CLI**: Un juego de tipo roleplay en CLI (Command-Line Interface) para practicar arquitecturas por capas, modularidad, POO, serializacion con JSON y principios SOLID.
+
 ---
 
 ## 📫 Contacto
