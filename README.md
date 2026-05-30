@@ -23,7 +23,8 @@ Estudiante de Ingeniería Informática orientado al desarrollo de software y a c
 
 ## 📌 Proyectos destacados
 - **Juego tipo Galaga**: Como proyecto final para la materia de Algoritmos y Programación de primer año, realicé un juego básico utilizando CSS, GO Y HTML.
-- Eternal Realms CLI ⚔️ (EN DESARROLLO)
+- **Eternal Realms CLI** ⚔️ (EN DESARROLLO)
+- **UcseCLI**: Herramienta de desarrollo en el ecosistema .NET +10 para automatización de Estructuración de Proyectos.
 ---
 
 ## 📫 Contacto
